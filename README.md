@@ -263,6 +263,10 @@ InsuranceEnrollmentPrediction/
 
 ---
 
+## Repository
+
+GitHub: https://github.com/garginemade/InsuranceEnrollmentPrediction.git
+
 ## Installation
 
 Clone the repository:
