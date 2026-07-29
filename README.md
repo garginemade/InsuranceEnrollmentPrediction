@@ -248,7 +248,8 @@ InsuranceEnrollmentPrediction/
 │
 ├── insurance_enrollment_prediction.ipynb
 ├── README.md
-├── report.md
+├── report/
+│   ├── report.pdf
 ├── AI_USAGE.md
 ├── requirements.txt
 │
